@@ -3,3 +3,4 @@ https://leetcode.com/
 https://careercup.com/
 https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
 https://coderbyte.com/course/google-interview-questions
+https://www.quora.com/What-are-some-key-interview-questions-for-a-software-engineer/answer/Sanket-Dialani
